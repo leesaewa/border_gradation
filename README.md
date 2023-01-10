@@ -9,7 +9,14 @@ input border gradation with SVG
 
 ## 시도
 
--
+### border-image
+
+```
+.container .input-box label:hover {}
+```
+
+- `border-image` `border-image-slice`속성을 이용해서 그라데이션을 넣을 수 있음.
+- 하지만 `border-radius`가 적용되지 않음.
 
 ## 해결법
 
